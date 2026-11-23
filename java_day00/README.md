@@ -3,6 +3,9 @@
 
 *Takeaways: Today, you will learn the basics of solving both trivial and more challenging business tasks using basic Java language constructs.*
 
+Resources
+[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
 # Contents
 1. [Chapter I](#chapter-i) \
    1.1. [Preamble](#preamble)
